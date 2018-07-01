@@ -1,0 +1,4 @@
+/venv
+/Django_Check.egg-info
+__pycache__
+/dist
