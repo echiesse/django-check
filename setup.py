@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name='Django Check',
-    version='0.1',
+    name='djangocheck',
+    version='0.2',
     description='Deploy checker for Django',
-    url='https://github.com/techiesse/django-check',
+    url='https://github.com/echiesse/django-check',
     author='Eric Chiesse',
     author_email='techiesse@gmail.com',
     license='MIT',
